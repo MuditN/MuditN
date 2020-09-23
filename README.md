@@ -1,7 +1,7 @@
 # Hey , nice to see you
 
 Welcome to my page!
-My name is Mudit, a game developer from **Jaipur, India**:india:.
+My name is Mudit, a game developer from **Jaipur, India** :in: .
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MuditN&theme=prussian&show_icons=true&count_private=true)
 
