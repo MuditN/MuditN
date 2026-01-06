@@ -5,9 +5,9 @@ export const profileData = {
   title: "Senior Backend Software Engineer",
   tagline: "Building scalable, cloud-native backend systems with strong engineering quality and operational excellence.",
   location: "Bengaluru, India",
-  email: "mudit.nagori@email.com",
-  linkedin: "https://linkedin.com/in/muditnagori",
-  github: "https://github.com/muditnagori",
+  email: "tidum.nagori@email.com",
+  linkedin: "https://www.linkedin.com/in/mudit-nagori/",
+  github: "https://github.com/MuditN",
   resumeUrl: "https://customer-assets.emergentagent.com/job_cloud-architect-23/artifacts/tpdr3umh_Mudit_Nagori_Resume_Latest.pdf"
 };
 
