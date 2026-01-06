@@ -95,7 +95,7 @@ My work spans **distributed systems, microservices, cloud infrastructure, and CI
 ## 📫 Connect
 
 - 📧 Email: tidum.nagori@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/muditnagori)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/mudit-nagori/)  
 
 ---
 
