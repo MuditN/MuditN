@@ -17,9 +17,9 @@ My work spans **distributed systems, microservices, cloud infrastructure, and CI
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muditnagori&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuditN&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muditnagori&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuditN&layout=compact&hide_border=true&theme=default)
 
 
 ---
